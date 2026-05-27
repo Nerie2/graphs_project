@@ -6,7 +6,7 @@ CLI-based app built with python that reads, processes and illustrates graphs fro
 
 - [@kamdevo](https://www.github.com/octokatherine) - Juan Camilo Morales 2515391
 
-- Nerie Vasquez Dias 
+- [@Nerie2](https://github.com/Nerie2)- Nerie Vasquez Diaz2519638
 
 # Project Structure
 graphs_project/
